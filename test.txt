@@ -4,3 +4,5 @@ edit teks
 baris 2
 
 coba stash
+
+baris 3
